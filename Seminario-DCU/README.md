@@ -1,0 +1,5 @@
+![Metodos](img/metodos-dcu.jpg)
+![Sandro](img/perfil-sandro.jpg)
+![Joel](img/perfil-joel.jpg)
+![JoseMiguel](img/perfil-jose-miguel.jpg)
+![Jose](img/perfil-jose.jpg)
